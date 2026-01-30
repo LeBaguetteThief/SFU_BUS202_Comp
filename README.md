@@ -41,5 +41,4 @@
 
 ---
 
-**Author:** nigu (benlouie817@gmail.com)  
 **Repository:** https://github.com/LeBaguetteThief/SFU_BUS202_Comp
